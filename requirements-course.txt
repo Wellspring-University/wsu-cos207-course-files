@@ -1,0 +1,7 @@
+# WSU-COS 207 course packages (minimum versions). Install with:
+#   python -m pip install -r requirements-course.txt
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+jupyterlab>=4.0

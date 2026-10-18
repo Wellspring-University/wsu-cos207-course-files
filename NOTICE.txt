@@ -1,0 +1,16 @@
+Copyright (c) 2026 A. S. Olayinka, T. C. Olayinka, B. E. Akilo and S. A. Oyedotun. All rights reserved.
+
+The authors retain the copyright in the WSU-COS 207 Practical Manual and in everything in this
+repository, including text, figures, datasets and code. No part of it may be reproduced, adapted,
+published or redistributed without the prior written permission of the authors, except:
+
+  - Students registered for WSU-COS 207 at Wellspring University may use the course files and
+    code for their own study and course work.
+  - Instructors teaching WSU-COS 207 at Wellspring University may use and reproduce them for
+    that course.
+
+Permissions: [ENTER CONTACT FOR PERMISSIONS]
+
+AI usage declaration: Claude (Anthropic) and Copilot (Microsoft) were used to assist with code and
+editing. The authors reviewed, tested and edited all AI-assisted content and take full
+responsibility for it.

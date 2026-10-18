@@ -1,0 +1,8 @@
+WSU/2024/1007 ; csc ;  The labs were USEFUL but the room was too hot.  
+WSU/2024/1012;SEN;I liked the testing practical, testing found two bugs in my code!
+wsu/2024/1023 ; cyb ; More time for recursion please. Recursion was hard.
+WSU/2024/1031 ; IFT ; good
+WSU/2024/1044 ; dts ;   Pandas made the statistics practical much faster.
+WSU/2024/1050 ; Csc ; The timing experiment surprised me: sorted() was very fast.
+WSU/2024/1068 ; SEN ; Please share the datasets earlier.
+WSU/2024/1071 ; csc ; Git was confusing at first, but commits saved my work twice.
