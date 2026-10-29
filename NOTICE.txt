@@ -9,7 +9,7 @@ published or redistributed without the prior written permission of the authors, 
   - Instructors teaching WSU-COS 207 at Wellspring University may use and reproduce them for
     that course.
 
-Permissions: [ENTER CONTACT FOR PERMISSIONS]
+Permissions: solayinkaa@gmail.com
 
 AI usage declaration: Claude (Anthropic) and Copilot (Microsoft) were used to assist with code and
 editing. The authors reviewed, tested and edited all AI-assisted content and take full
